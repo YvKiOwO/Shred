@@ -14,3 +14,4 @@ ld shred.o -o shred
 ```
 
 ![image](https://github.com/YvKiOwO/Shred/blob/main/2026-07-12_16-02.png)
+(yes I used the OPL.elf to test. Just to test things, not to say anything bad against it. I love OPL <3)
