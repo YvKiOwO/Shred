@@ -11,3 +11,6 @@ Requires `nasm` and `ld`.
 nasm -f elf64 shred.asm -o shred.o
 ld shred.o -o shred
 ./shred (target binary)
+```
+
+![image](https://github.com/YvKiOwO/Shred/blob/main/2026-07-12_16-02.png)
